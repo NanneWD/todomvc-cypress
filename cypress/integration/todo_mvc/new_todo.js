@@ -18,7 +18,7 @@ describe("adds and removes todos to the list", () => {
       .addToDo(faker.lorem.sentence())
       .addToDo(faker.lorem.word())
       .addToDo(faker.lorem.sentences())
-      .addToDo(faker.lorem.lines())
+      .addToDo(faker.random.number())
 
       .log("asserst that 5 items have been added")
       .get(selectors.list_todos)
