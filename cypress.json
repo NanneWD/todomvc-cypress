@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://todomvc.com/examples/vanillajs",
+  "ignoreTestFiles": ["selectors.js"]
+}
