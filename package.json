@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.9.16",
+    "cypress": "^4.1.0",
+    "faker": "^4.1.0"
+  }
+}
